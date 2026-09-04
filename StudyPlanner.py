@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar  4 10:24:03 2026
-
-@author: nidum
-"""
 import datetime
 #Used to work with dates and times
 
